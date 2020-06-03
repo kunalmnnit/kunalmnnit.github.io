@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kunalmnnit.github.io
+Token: 57de32aed430329fb753267ba7713d3733b0c0c5e8a92d1da1979e750ade110c
